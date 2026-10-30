@@ -1,0 +1,22 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Day4.Core -> E:\support-ticket-app\Day4-TestingAsync\Day4.Core\bin\Debug\net8.0\Day4.Core.dll
+  Day4.App -> E:\support-ticket-app\Day4-TestingAsync\Day4.App\bin\Debug\net8.0\Day4.App.dll
+  Day4.Tests -> E:\support-ticket-app\Day4-TestingAsync\Day4.Tests\bin\Debug\net8.0\Day4.Tests.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.86
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Day4.Core -> E:\support-ticket-app\Day4-TestingAsync\Day4.Core\bin\Debug\net8.0\Day4.Core.dll
+  Day4.Tests -> E:\support-ticket-app\Day4-TestingAsync\Day4.Tests\bin\Debug\net8.0\Day4.Tests.dll
+Test run for E:\support-ticket-app\Day4-TestingAsync\Day4.Tests\bin\Debug\net8.0\Day4.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:    10, Skipped:     0, Total:    10, Duration: 28 ms - Day4.Tests.dll (net8.0)
