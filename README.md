@@ -10,6 +10,4 @@ Capstone domain: **Support Ticket Management**. Target framework: `net8.0` (the 
 | 4 | [Day4-TestingAsync](Day4-TestingAsync) | Solution with app + library + xUnit tests, async export with cancellation |
 | 5 | [Day5-Gate1](Day5-Gate1) | Mini-build, normal/boundary/invalid tests, regression test, walkthrough guide |
 
-LeetCode problems (one per day) are practised separately and are not kept in this repo.
-
 Status: all projects build with 0 warnings (warnings are errors; see `Directory.Build.props` and `.editorconfig`). Day 4: 10 tests pass; Day 5: 21 tests pass. Verified with .NET SDK 8.0.427.
